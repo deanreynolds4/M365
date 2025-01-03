@@ -9,7 +9,7 @@
         3. Create 10 channels within that newly created team.
 
     .NOTES
-        - Ensure you have installed and imported the necessary modules:
+        - Ensure you have installed and imported the necessary modules as below:
             Install-Module AzureAD
             Install-Module MicrosoftTeams
         - Run Connect-AzureAD and Connect-MicrosoftTeams before executing this script.
